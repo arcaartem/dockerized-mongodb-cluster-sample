@@ -4,7 +4,6 @@
 
 * Docker
 * Docker Compose
-* MongoDB (optional, and only to help run the initialisation script)
 
 ## Setup
 
